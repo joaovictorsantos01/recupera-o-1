@@ -1,0 +1,25 @@
+header{
+    background-color: blueviolet;
+}
+main{
+    background-color: aqua;
+}
+body{
+    color: black;
+    margin: 1cm
+}
+h1{
+    text-align: left
+}
+.lema{
+    text-align: left;
+}
+.lema{
+    text-align: center;
+    padding: 30%px;
+    font-size: 32%;
+}
+.autor{
+    text-align: right;
+    font-size: 20%;
+}
